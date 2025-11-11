@@ -13,11 +13,11 @@ My research goal is to build verifiably safe and aligned AI. I believe that the 
 
 Formal languages offer what I call **rigorous verifiability**—the ability to automatically and objectively prove that a system's behavior aligns with its specifications. This transforms AI development by providing two key advantages: a perfect signal for scalable training and a direct pathway to provable safety. My work aims to leverage these properties to mature AI safety from an empirical art into a rigorous science.
 
-#### My Research Philosophy
+### My Research Philosophy
 *   **Problem First:** I believe that *what* to solve is more important than *how* to solve it. My work begins by identifying critical challenges.
 *   **Principled Solutions:** I work to understand problems from first principles. The deep, theoretical insight gained from this approach is what guides the development of scalable and practical solutions.
 
-#### Core Research Interests
+### Core Research Interests
 1.  **Scalable Formal Reasoning:** Harnessing the perfect, self-contained signals within formal languages to train powerful and reliable AI agents.
 2.  **AI Safety via Formal Methods:** Using rigorous verification to guarantee that autonomous systems operate transparently and without unintended behaviors, ensuring they align perfectly with user intentions.
 3.  **Compositional Generalization**: Investigating how models can learn to systematically combine existing skills to generalize and solve complex, unseen tasks.
