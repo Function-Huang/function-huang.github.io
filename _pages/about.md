@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About Me
+# About Me
 
 Hello! I'm Xuhan Huang, a senior mathematics student at The Chinese University of Hong Kong, Shenzhen, where I am fortunate to be advised by Prof. [Benyou Wang](https://wabyking.github.io/old.html) and Prof. [Zhongxiang Dai](https://daizhongxiang.github.io/) Dai. Currently, I am a research intern at Shanghai AI Lab, mentored by Prof. [Jie Fu](https://daizhongxiang.github.io/).
 
@@ -23,7 +23,7 @@ Formal languages offer what I call **rigorous verifiability**—the ability to a
 2.  AI Safety via Formal Methods: Using rigorous verification to guarantee that autonomous systems operate transparently and without unintended behaviors, ensuring they align perfectly with user intentions.
 3.  Compositional Generalization: Investigating how models can learn to systematically combine existing skills to generalize and solve complex, unseen tasks.
 
-## Preprints
+# Preprints
 
 1.  **VeriEquivBench: An Equivalence Score for Ground-Truth-Free Evaluation of Formally Verifiable Code** <br>
     Lingfei Zeng\*, Fengdi Che\*, **Xuhan Huang**, Fei Ye, Xu Xu, Binhang Yuan, Jie Fu <br>
@@ -37,7 +37,7 @@ Formal languages offer what I call **rigorous verifiability**—the ability to a
     Chuanhao Yan\*, Fengdi Che\*, **Xuhan Huang**\*, Xu Xu\*, Xin Li\*, Yizhi Li\*, Xingwei Qu\*, Jingzhe Shi, Chenghua Lin, Yaodong Yang, Binhang Yuan, Hang Zhao, Yu Qiao, Bowen Zhou, Jie Fu. <br>
     *Preprint*, 2025. [[arXiv](https://arxiv.org/abs/2507.16331)] [[code](https://github.com/Veri-Code/ReForm)]
 
-## Publications
+# Publications
 
 1.  **Federated Linear Dueling Bandits** <br>
     **Xuhan Huang**, Yan Hu, Zhiyan Li, Zhiyong Wang, Benyou Wang, Zhongxiang Dai <br>
@@ -50,7 +50,7 @@ Formal languages offer what I call **rigorous verifiability**—the ability to a
 <br>
 *Denotes equal contribution.
 
-## Beyond Research
+# Beyond Research
 
 I'm passionate about fitness and can often be found at the gym or on the basketball court. Feel free to reach out if you're ever looking for a partner for either!
 
